@@ -11,7 +11,7 @@ Running agencies in docker is safer as it does not affect your local file system
 1. **Clone and navigate into the Repository**.
 
     ```bash
-    git clone https://github.com/VRSEN/agency-swarm-lab-deimosai.git
+    git clone https://github.com/Deimos-AI/agency-swarm-lab-deimosai.git
     cd agency-swarm-lab-deimosai
     ```
    
