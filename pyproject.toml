@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "agency-swarm-lab-deimosai"
+version = "0.1.0"
+description = ""
+authors = ["Tristan Day <github@hellojackals.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+litellm = {extras = ["proxy"], version = "^1.40.16"}
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

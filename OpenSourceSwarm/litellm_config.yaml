@@ -21,5 +21,6 @@ model_list:
 
   - model_name: ollama/llama3
     litellm_params:
-      model: ollama/llama3
+      model: ollama/dolphin-llama3
       api_key: anything
+      api_base: 192.168.200.14:11434
